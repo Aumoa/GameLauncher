@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>AppLaunch.ico</ApplicationIcon>
+    <Authors>liberty</Authors>
+    <Company />
+    <Product>GameLauncher</Product>
+    <Description>A simply game launcher.</Description>
+    <Copyright>Copyright 2020-2021 Aumoa.lib. All right reserved.</Copyright>
+  </PropertyGroup>
+
+</Project>
